@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBhhpjyWS9UnG3w0aC-2j_we3P7EArl9Ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>246380261345</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lifefrontend.beta</string>
+	<key>PROJECT_ID</key>
+	<string>life-beta-9a17e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>life-beta-9a17e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:246380261345:ios:fecc12ceec3a07f07eeca0</string>
+</dict>
+</plist>

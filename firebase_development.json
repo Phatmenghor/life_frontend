@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "life-development-10dfe",
+          "appId": "1:576851884571:android:020bc5ce03e40518a416be",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "life-development-10dfe",
+          "appId": "1:576851884571:ios:309307fde8fea19aa416be",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "life-development-10dfe",
+          "configurations": {
+            "android": "1:576851884571:android:020bc5ce03e40518a416be",
+            "ios": "1:576851884571:ios:309307fde8fea19aa416be",
+            "web": "1:576851884571:web:54649eef939f6102a416be"
+          }
+        }
+      }
+    }
+  }
+}
